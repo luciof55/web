@@ -12,3 +12,6 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Ubicación del Mapa del Sitio
+Sitemap: https://isd.net.ar/sitemap.xml
