@@ -13,7 +13,7 @@
   
   <!-- Landing Receta Electrónica -->
   <url>
-    <loc>https://isd.net.ar/receta-electronica/</loc>
+    <loc>https://isd.net.ar/#/receta-electronica/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -21,7 +21,7 @@
   
   <!-- Landing ERP para PyMEs -->
   <url>
-    <loc>https://isd.net.ar/erp-pymes/</loc>
+    <loc>https://isd.net.ar/#/erp-pymes/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -29,7 +29,7 @@
   
   <!-- Landing Consultoría ISO -->
   <url>
-    <loc>https://isd.net.ar/consultoria-iso/</loc>
+    <loc>https://isd.net.ar/#/consultoria-iso/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
